@@ -1,0 +1,69 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{08E00D2F-E001-1C27-F440-68A1449A8523}") = "Elon Musk On Mars With Zombies", "Assembly-CSharp-firstpass.csproj", "{6F7C9C24-C536-BEB7-243C-5DDEFD05C1CC}"
+EndProject
+Project("{08E00D2F-E001-1C27-F440-68A1449A8523}") = "Elon Musk On Mars With Zombies", "Assembly-CSharp.csproj", "{92DBDB0D-C700-0E6E-D095-FF54BCDCB462}"
+EndProject
+Project("{08E00D2F-E001-1C27-F440-68A1449A8523}") = "Elon Musk On Mars With Zombies", "Assembly-CSharp-Editor.csproj", "{717C05E3-C017-0370-3D9A-B5B0B3E69A91}"
+EndProject
+Project("{08E00D2F-E001-1C27-F440-68A1449A8523}") = "Elon Musk On Mars With Zombies", "Assembly-UnityScript-firstpass.unityproj", "{6A952D2A-5FB8-0061-782A-A0B76ABAD438}"
+EndProject
+Project("{08E00D2F-E001-1C27-F440-68A1449A8523}") = "Elon Musk On Mars With Zombies", "Assembly-UnityScript.unityproj", "{8B70A11A-7A48-6AF7-BE3F-B8C7C21B9E39}"
+EndProject
+Project("{08E00D2F-E001-1C27-F440-68A1449A8523}") = "Elon Musk On Mars With Zombies", "Assembly-UnityScript-Editor.unityproj", "{8A8499B1-D7AB-7E78-4223-412434C1B020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F7C9C24-C536-BEB7-243C-5DDEFD05C1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7C9C24-C536-BEB7-243C-5DDEFD05C1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7C9C24-C536-BEB7-243C-5DDEFD05C1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7C9C24-C536-BEB7-243C-5DDEFD05C1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92DBDB0D-C700-0E6E-D095-FF54BCDCB462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DBDB0D-C700-0E6E-D095-FF54BCDCB462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DBDB0D-C700-0E6E-D095-FF54BCDCB462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DBDB0D-C700-0E6E-D095-FF54BCDCB462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717C05E3-C017-0370-3D9A-B5B0B3E69A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717C05E3-C017-0370-3D9A-B5B0B3E69A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717C05E3-C017-0370-3D9A-B5B0B3E69A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717C05E3-C017-0370-3D9A-B5B0B3E69A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A952D2A-5FB8-0061-782A-A0B76ABAD438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A952D2A-5FB8-0061-782A-A0B76ABAD438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A952D2A-5FB8-0061-782A-A0B76ABAD438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A952D2A-5FB8-0061-782A-A0B76ABAD438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B70A11A-7A48-6AF7-BE3F-B8C7C21B9E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B70A11A-7A48-6AF7-BE3F-B8C7C21B9E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B70A11A-7A48-6AF7-BE3F-B8C7C21B9E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B70A11A-7A48-6AF7-BE3F-B8C7C21B9E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8499B1-D7AB-7E78-4223-412434C1B020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8499B1-D7AB-7E78-4223-412434C1B020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8499B1-D7AB-7E78-4223-412434C1B020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8499B1-D7AB-7E78-4223-412434C1B020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+														GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
